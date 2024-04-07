@@ -1,2 +1,2 @@
-# kantra_com
+# kantra
 this is my first Repository
